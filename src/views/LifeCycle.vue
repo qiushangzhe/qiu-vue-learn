@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>vue生命周期,打开控制台</h1>
+    <h1>vue生命周期,打开控制台查看</h1>
     <p>
       <a href="https://segmentfault.com/a/1190000008010666">参考文章</a>
     </p>
